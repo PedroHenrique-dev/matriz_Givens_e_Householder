@@ -1,2 +1,2 @@
-# matriz_Givens_e_Householder
-matriz de Givens, de Householder, ortogonalização e triangularização de matrizes.
+# Matriz Givens e Householder
+Matriz de Givens, de Householder. Ortogonalização e triangularização de matrizes.
